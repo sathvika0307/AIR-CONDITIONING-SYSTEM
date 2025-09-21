@@ -63,4 +63,4 @@ The AC switches **ON** when temperature exceeds the maximum threshold and switch
    - If temperature is within range → AC maintains last state.  
 5. Press **Stop** button to safely end the program.  
 
-👉 For a detailed build guide, see [procedure.md](./procedure.md).
+👉 For a detailed build guide, see [Procedure.md](./Procedure.md).
