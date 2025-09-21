@@ -3,9 +3,7 @@
 ## 📌 Overview  
 This project demonstrates an **Air Conditioning (AC) Control System** using **NI LabVIEW**.  
 It simulates real-time monitoring of room temperature with **automatic cooling control** based on user-defined comfort limits.  
-The AC switches **ON** when temperature exceeds the maximum threshold and switches **OFF** when it goes below the minimum threshold.  
-
-Developed as part of the **LabVIEW Programming Laboratory (B.Tech – EIE)** course.  
+The AC switches **ON** when temperature exceeds the maximum threshold and switches **OFF** when it goes below the minimum threshold.   
 
 ---
 
