@@ -28,10 +28,10 @@ The AC switches **ON** when temperature exceeds the maximum threshold and switch
 ---
 
 ## 📂 Repository Contents  
-- Temp Server.vi → Main LabVIEW simulation file.  
-- Images/ → Front Panel, Block Diagram, and output screenshots.  
-- Procedure.md → Step-by-step guide to recreate the project.  
-- README.md → Project documentation (this file).  
+- 'Temp Server.vi' → Main LabVIEW simulation file.  
+- 'Images/' → Front Panel, Block Diagram, and output screenshots.  
+- 'Procedure.md' → Step-by-step guide to recreate the project.  
+- 'README.md' → Project documentation (this file).  
 
 ---
 
