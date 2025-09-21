@@ -43,7 +43,7 @@ This document explains the step-by-step procedure to create and test the **Air C
      - If **Temp > Max** → AC turns *ON* (cooling mode).  
      - If **Temp < Min** → AC turns *OFF*.  
      - Else → AC keeps its previous state.  
-   - Implement this logic using *Greater Than, **Less Than, and **Select* functions.  
+   - Implement this logic using **Greater Than, Less Than, and Select** functions.  
 
 5. **Shift Register (Memory)**  
    - Add a Shift Register to the While Loop.  
